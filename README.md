@@ -23,9 +23,9 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="path/to/home-screen.png" width="220" alt="Home Screen" />
-  <img src="path/to/quiz-screen.png" width="220" alt="Quiz Screen" />
-  <img src="path/to/learn-mode.png" width="220" alt="Learn Mode" />
+  <img src="https://github.com/EDProgrammerist/Quiz-/blob/master/assets/images/home-screen.jpeg?raw=true" width="220" alt="Home Screen" />
+  <img src="https://github.com/EDProgrammerist/Quiz-/blob/master/assets/images/quiz-screen.png.jpeg?raw=true" width="220" alt="Quiz Screen" />
+  <img src="https://github.com/EDProgrammerist/Quiz-/blob/master/assets/images/learn-mode.jpeg?raw=true" width="220" alt="Learn Mode" />
 
 </div>
 
